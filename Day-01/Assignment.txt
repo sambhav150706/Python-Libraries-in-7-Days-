@@ -1,0 +1,23 @@
+📝 DAY-01 ASSIGNMENT (IMPORTANT)
+🔹 Beginner
+
+Print current date and time
+
+Generate a random number between 1–100
+
+🔹 Intermediate
+
+Create a folder named with today’s date
+
+Create a simple calculator using math module
+
+🔹 Advanced 🔥
+
+Mini Project:
+➡️ OTP Generator Program
+
+Generate 6-digit OTP
+
+Display current date & time
+
+Save OTP in a text file
